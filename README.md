@@ -99,12 +99,6 @@ src/
 └── utils/       # Funções utilitárias
 ```
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT.
-
----
-
 Feito com 💜 por Talia Pacheco
 
 
